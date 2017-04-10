@@ -1,7 +1,5 @@
 # ntu-pyp-solution
 
-------------------------------
-
 ## Words before you use
 
 This project aims to gather the solutions to all Nanyang Technological University past year exam papers. Besides solutions, I have also provided ready-to-print papers of several courses, which has gathered all the exam papers and eliminated bulky blank pages and chunky appendixes. Those files are under ```PYP_papers/All in one```. 
@@ -12,7 +10,7 @@ The only aim of this project is to gather exeryone's effort and help everyone be
 
 Such project could never be complete with my own effort. Whether you are a pyp solver from school clubs, professors who are welling to help students with their study or someone preparing for the exam, I warmly welcome your Folk, Pull Request and Issues.
 
-------------------------------
+
 ## Status
 
 ### Uploaded solution
